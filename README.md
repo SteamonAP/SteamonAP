@@ -20,8 +20,8 @@
 - 🛠️ Transitioned from game development (Unity) to building scalable backends  
 - 🌱 Deep into **Node.js**, **Express**, **MongoDB**, **REST APIs**  
 - 💬 Currently learning Deno.js, Docker, and GraphQL  
-- 💡 Looking for a **1–3 month backend internship from mid-June 2025**
-- 📫 Reach me at: `youremail@example.com`
+- 💡 Looking for a **1–3 month backend internship from July 2025**
+- 📫 Reach me at: `amoghpitale7@gmail.com`
 
 ---
 
@@ -38,7 +38,7 @@
 
 | Project | Description | Tech |
 |--------|-------------|------|
-| 🔒 [**Anon Chat App**](https://github.com/SteamonAP/anon-chat-app) | Real-time anonymous chat using WebSockets, Node.js and JWT | Node.js, Socket.IO, JWT |
+| 🔒 [**JustUS2 Chat App**](https://github.com/SteamonAP/JustUS2-Chat-app) | Real-time anonymous chat using WebSockets, Node.js and JWT | Node.js, Socket.IO, JWT |
 | ♟️ [**Chess AI Engine**](https://github.com/SteamonAP/chess-ai-negamax) | Chess engine using Negamax with alpha-beta pruning | C++, Terminal |
 | 🛒 [**E-Commerce Backend**](https://github.com/SteamonAP/ecommerce-api) | REST API with product routes, JWT login, MongoDB | Node.js, MongoDB |
 | 🔐 [**Auth Node App**](https://github.com/SteamonAP/auth-node-app) | Basic Node.js app with JWT authentication & sessions | Node.js, Express |
