@@ -81,7 +81,7 @@
 ## 📫 Connect with Me
 
 <p align="center">
-  <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="mailto:amoghpitale7@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/amogh-pitale-603781255/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
   <a href="https://github.com/SteamonAP"><img src="https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github"></a>
 </p>
